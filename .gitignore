@@ -1,0 +1,7 @@
+data
+.vscode
+.venv
+.idea
+__pycache__
+discord.log
+config.py
